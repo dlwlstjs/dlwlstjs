@@ -7,7 +7,7 @@
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)<br>
 ⚡ Database<br>
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br>
-![github](https://github-readme-stats.vercel.app/api/top-langs/?username={dlwlstjs}&theme=blue-green)
+![github](https://github-readme-stats.vercel.app/api/top-langs/?username={jinseon}&theme=blue-green)
 <!--
 **dlwlstjs/dlwlstjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
