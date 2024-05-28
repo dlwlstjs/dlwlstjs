@@ -1,6 +1,6 @@
 # Hi!
 ⚡ Database<br>
-![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <!--
 **dlwlstjs/dlwlstjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
